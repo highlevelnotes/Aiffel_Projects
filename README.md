@@ -6,3 +6,4 @@
 * 241029 Data Cleaning 택시요금 데이터 다루기
 * 241030 Data 영국 시장의 중고차 가격 데이터 다루기
 * 241104 Feature Engineering 신용거래 이상탐지 데이터 다루기
+* 241210 시계열 분류 Mini Project
