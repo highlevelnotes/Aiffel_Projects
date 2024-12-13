@@ -8,3 +8,4 @@
 * 241104 Feature Engineering 신용거래 이상탐지 데이터 다루기
 * 241210 시계열 분류 Mini Project
 * 241211 ARIMA, ARCH Mini Project
+* 241213 Finance Time Series Data 활용하기
