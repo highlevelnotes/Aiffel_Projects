@@ -10,3 +10,4 @@
 * 241211 ARIMA, ARCH Mini Project
 * 241213 Finance Time Series Data 활용하기
 * 241217 인공지능과 가위바위보 하기
+* 241231 뉴스 카테고리 다중분류
